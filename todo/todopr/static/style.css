@@ -1,0 +1,16 @@
+.banner {
+  background-color:magenta;
+  width:110%;
+  height:80%;
+  margin-bottom:20px;
+  text-align:center;
+  color:blue;
+
+}
+
+.banner-text {
+        top:50%;
+        posotion:absolute;
+        transform:transform;
+
+}
